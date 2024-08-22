@@ -169,3 +169,4 @@ Refer to the MDN documentation on the
 [Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 for help with this task. Review how to calculate the elapsed time between two
 dates.
+# waa09-event-manipulation-long
